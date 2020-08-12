@@ -1,0 +1,28 @@
+.abouttext {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: whitesmoke;
+  background-color: rgba(68, 68, 68, 0.692);
+  font-weight: 900;
+  margin-top: 1%;
+}
+
+.gridAbout {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
+.link-about {
+  text-decoration: none;
+  color: white;
+  background-color: #ffca38;
+  padding: 4px;
+  margin: 5px;
+  border-radius: 10px;
+  border: #444 solid 2px;
+}
+.link-about:hover {
+  background: #444;
+}

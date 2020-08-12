@@ -1,0 +1,40 @@
+.bld-list {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: left;
+  position: relative;
+}
+
+.bld-list td,
+.bld-list th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.bld-list tr:nth-child(even) {
+  background-color: #dfdfdf;
+}
+.bld-list tr {
+  background-color: #ffffff;
+}
+
+.bld-list tr:hover {
+  background-color: rgba(2, 0, 122, 0.452);
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.bld-list th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #ffca38;
+  color: #444;
+  position: sticky;
+  top: 0;
+}

@@ -1,0 +1,57 @@
+.container {
+  margin: auto;
+  width: 100%;
+  overflow: auto;
+  padding: 0px 0px;
+}
+
+.navbar {
+  background: #333;
+  color: #fff;
+  overflow: auto;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar h1 {
+  float: left;
+  display: block;
+  text-align: center;
+  color: #f7c08a;
+  margin: 0px;
+  padding: 6px;
+}
+
+.navbar ul {
+  list-style: none;
+  float: right;
+  margin: 0;
+}
+
+.navbar ul li {
+  float: left;
+}
+
+.navbar ul li a {
+  display: block;
+  padding: 20px;
+  text-align: center;
+}
+
+.navbar li a:hover {
+  background: #444;
+  color: #ffca38;
+}
+
+.website-logo {
+  width: 35px !important;
+  height: 35px !important;
+  padding-right: 10px;
+}
+
+.logo span {
+  color: #ffca38;
+}

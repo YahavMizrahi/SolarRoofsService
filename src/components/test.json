@@ -1,0 +1,477 @@
+{
+    "type": "FeatureCollection",
+    "name": "bld_BeerSheva_0",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "9",
+                "osm_id": "25859787",
+                "code": "1500",
+                "fclass": "building",
+                "name": "קניון הנגב",
+                "type": null,
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "13696",
+                "Z": 276.10256,
+                "public": null,
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.795049579126889,
+                        31.243798109230973
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1125",
+                "osm_id": "85533540",
+                "code": "1500",
+                "fclass": "building",
+                "name": "בית גוזלן",
+                "type": null,
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "30",
+                "Z": 272.03251,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.789172209767386,
+                        31.241566794733906
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1148",
+                "osm_id": "86336963",
+                "code": "1500",
+                "fclass": "building",
+                "name": "מרכז קליטה יעלים",
+                "type": null,
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "3039",
+                "Z": 267.10206,
+                "public": null,
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.779763608344481,
+                        31.251764654601423
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1149",
+                "osm_id": "86443035",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "2171",
+                "Z": 281.35475,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.811175238629453,
+                        31.246758935266257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1150",
+                "osm_id": "86443037",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "431",
+                "Z": 282.4438,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.811726424737209,
+                        31.247018850781018
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1151",
+                "osm_id": "86443038",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "327",
+                "Z": 282.64479,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.81197502060229,
+                        31.247386918395051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1152",
+                "osm_id": "86443040",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "15455",
+                "Z": 282.84931,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.812031085291274,
+                        31.247589582069832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1153",
+                "osm_id": "86443046",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "397",
+                "Z": 282.24109,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.811748320307245,
+                        31.247404501875881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1154",
+                "osm_id": "86443049",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "413",
+                "Z": 282.94998,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.811961838925548,
+                        31.247006033050333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1156",
+                "osm_id": "86655580",
+                "code": "1500",
+                "fclass": "building",
+                "name": "המוסד לביטוח לאומי",
+                "type": "commercial",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "1028",
+                "Z": 273.52096,
+                "public": null,
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.7987648222066,
+                        31.245423460443195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1158",
+                "osm_id": "86886333",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": null,
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "971",
+                "Z": 265.10279,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.797499841394703,
+                        31.232205907393347
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1159",
+                "osm_id": "86886339",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": null,
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "10906",
+                "Z": 273.31259,
+                "public": null,
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.8032982,
+                        31.2217663
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1161",
+                "osm_id": "87045248",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "1553",
+                "Z": 280.07437,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.812225146088394,
+                        31.242086764265586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1162",
+                "osm_id": "87045249",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "7215",
+                "Z": 281.14138,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.810614166896414,
+                        31.243326092226891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": "1163",
+                "osm_id": "87045250",
+                "code": "1500",
+                "fclass": "building",
+                "name": null,
+                "type": "retail",
+                "zone": "desert",
+                "nearbyForest": null,
+                "nearbyWater": null,
+                "area": "589",
+                "Z": 284.25074,
+                "public": "public",
+                "osm_id_2": "9383249",
+                "code_2": 1001.0,
+                "fclass_2": "city",
+                "population": "220126",
+                "name_2": "באר שבע"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        34.811507660151989,
+                        31.244338343518951
+                    ]
+                ]
+            }
+        }
+    ]
+}

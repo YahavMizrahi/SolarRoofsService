@@ -1,0 +1,26 @@
+.leaflet-container {
+  border: 2px solid rgb(255, 255, 255);
+  width: 99%;
+  height: 100%;
+  margin: 5px;
+  border-radius: 2%;
+}
+.popup {
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 10px;
+  border: solid 1px black;
+}
+.img-bld {
+  width: 150px;
+  height: 150px;
+  /* background: blueviolet; */
+}
+.resArea {
+  font-size: 20px;
+  color: green;
+  text-align: center;
+}

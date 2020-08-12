@@ -1,0 +1,26 @@
+.info-grid-container {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  grid-template-rows: 6fr;
+  margin: 5px;
+}
+.info h4 {
+  color: #444;
+  background-color: #ffffff;
+  font-size: 16px;
+  vertical-align: center;
+  text-align: center;
+  border-radius: 0.5pc;
+}
+
+.info {
+  border: rgb(0, 0, 0) solid;
+  border-radius: 6%;
+  margin: 2px;
+  background-color: rgba(0, 0, 0, 0.726);
+}
+.info p {
+  text-align: center;
+  font-size: 16px;
+  color: white;
+}
